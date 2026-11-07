@@ -1,0 +1,6 @@
+node_modules/
+config.env
+
+# Fotos enviadas pelos utilizadores
+public/img/users/*
+!public/img/users/default.jpg
